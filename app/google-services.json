@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "217339782816",
+    "firebase_url": "https://mvp-d4900.firebaseio.com",
+    "project_id": "mvp-d4900",
+    "storage_bucket": "mvp-d4900.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217339782816:android:578afe66dfdd1813",
+        "android_client_info": {
+          "package_name": "com.noumi.mvp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217339782816-cklt3srltctveegd3prldg10gg294am1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.noumi.mvp",
+            "certificate_hash": "c293d4547b0743f45396dfbcd0a477fd4444bdbb"
+          }
+        },
+        {
+          "client_id": "217339782816-n561pbqoql09fv1537jsg8ojv8rff6j4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPO7D0x0YbE45CtE_6oOerxudCScfxrm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217339782816-n561pbqoql09fv1537jsg8ojv8rff6j4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
